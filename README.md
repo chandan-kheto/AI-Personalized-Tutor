@@ -26,6 +26,7 @@ Speech Input	Google SpeechRecognition
 Speech Output	pyttsx3 (Windows SAPI5)
 HTTP Client	Requests
 Environment Config	python-dotenv
+
 📁 Project Structure
 AI-Personalized-Tutor/
 │
