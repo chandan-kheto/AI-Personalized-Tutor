@@ -34,7 +34,6 @@ Built with a modular **FastAPI backend** and a clean **Streamlit frontend**, pow
 | Environment Config | python-dotenv |
 
 ---
-
 ## 📁 Project Structure
 
 AI-Personalized-Tutor/
@@ -52,6 +51,10 @@ AI-Personalized-Tutor/
 ├── .env # OPENROUTER_API_KEY stored here
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
+
+
+
+
 
 
 Clean separation between frontend and backend ensures modularity and scalability.
