@@ -35,7 +35,7 @@ Built with a modular **FastAPI backend** and a clean **Streamlit frontend**, pow
 
 ---
 ## 📁 Project Structure
-
+```
 AI-Personalized-Tutor/
 │
 ├── backend/
@@ -51,8 +51,7 @@ AI-Personalized-Tutor/
 ├── .env # OPENROUTER_API_KEY stored here
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
-
-
+```
 
 
 
